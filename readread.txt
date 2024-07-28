@@ -11,3 +11,5 @@ git remote add origin https://github.com/TheOracleMx/repo1.git
 git push -u origin main
 
 Yes
+
+Git clone
